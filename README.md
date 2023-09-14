@@ -4,7 +4,7 @@
 <p align="center">
   <em>Data Science Enthusiast | Computer Science Grad-to-Be | Future Quantitative Sorcerer</em>
 </p>
-✨ As a passionate Data Science learner and a soon-to-be Computer Science graduate (December 2023), I'm on a mission to decode the universe's secrets, one line of code at a time.
+✨ A passionate Data Science learner and a soon-to-be Computer Science graduate (December 2023).
 
 ---
 
