@@ -14,7 +14,10 @@
 - Curating a  portfolio that showcases my projects and hobbies. 🌐
   
 🌟 When I'm not diving into the data realm, you'll find me:
+
 - Exploring the wonders of the world and turning hobbies into passions. 🌍
   
 📫 How to launch a message my way:
-Reach out to the email address in my GitHub profile. Let's embark on a stellar journey together! 🚀
+Reach out to the email address in my GitHub profile. 
+
+Let's embark on a stellar journey together! 🚀
